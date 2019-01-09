@@ -8,6 +8,7 @@ There are 3 FMs used as initial research that can be useful within your scientif
 - TFFM: https://github.com/geffy/tffm
 - PyMachines: https://github.com/dstein64/PyFactorizationMachines/blob/master/documentation.md
 - DeepCtr: https://deepctr-doc.readthedocs.io/en/latest/index.html
+
 Scientific documentation about FM's work (theory):
 - https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf
 - https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
