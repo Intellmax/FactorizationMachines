@@ -1,4 +1,4 @@
-# FactorizedMachines(FM)
+# FactorizationMachines(FM)
 Factorization Machines (FM) are a new model class that combines the advantages of Support Vector Machines (SVM) with factorization models. Like SVMs, FMs are a general predictor working with any real valued feature vector. In contrast to SVMs, FMs model all interactions between variables using factorized parameters. Thus they are able to estimate interactions even in problems with huge sparsity (like recommender systems) where SVMs fail. 
 In total, the advantages of our proposed FM are: 
 1) FMs allow parameter estimation under very sparse data where SVMs fail. 
